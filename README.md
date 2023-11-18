@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashi Shekhar 
 - 👀 I’m interested in developing some cool programmes
-- 🌱 I’m currently learning CSE(2023-2027)
+- 🌱 I’m currently Doing BTECH in Computer Science Engineering.
 - 💞️ I’m looking to collaborate on Python Projects with some innovative ideas.
 - 📫 How to reach me ... Mail me shashishekhar3855@gmail.com
 
